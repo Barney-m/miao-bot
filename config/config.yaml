@@ -1,0 +1,12 @@
+discord:
+  bot:
+    token: 
+    prefix: ">"
+
+openai:
+  chatgpt:
+    api-key: 
+    endpoint: https://api.openai.com/v1/chat/completions
+
+music:
+  max-queue-size: 40
